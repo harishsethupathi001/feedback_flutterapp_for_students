@@ -34,13 +34,15 @@ admin demoid_password: demo123
 
 **Feedback page**
 
-![feedback page]
+
 ![feedback page](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/9540920d-6e1b-437b-b263-280a2acbbd20)
 
 
 
 **Alert message**
+
 ![Screenshot 2024-01-19 185847](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/6454c349-1644-4f52-b229-f3860920c8ec)
+
 
 
 
