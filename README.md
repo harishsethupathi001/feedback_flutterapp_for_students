@@ -34,14 +34,16 @@ admin demoid_password: demo123
 
 **Feedback page**
 
-![feedback page](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/fb0cfa1c-0498-49ed-b76c-e09662dd7e19)
+![feedback page]
+![feedback page](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/9540920d-6e1b-437b-b263-280a2acbbd20)
 
 
 
 **Alert message**
-![Screenshot 2024-01-19 185847](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/61802036-dda4-48f5-9027-5b914ea0a643)
+![Screenshot 2024-01-19 185847](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/6454c349-1644-4f52-b229-f3860920c8ec)
 
 
 
 **Admin page **(retrivation of all feedbacks)
-![Screenshot 2024-01-19 190150](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/0c0e596e-4008-4d6f-8fa6-9f8c694a74b4)
+
+![Screenshot 2024-01-19 190150](https://github.com/harishsethupathi001/feedback_flutterapp_for_students/assets/157125306/738af62d-5664-46f1-89f7-24c8c1374d3a)
